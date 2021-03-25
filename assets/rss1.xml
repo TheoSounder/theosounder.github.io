@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
+    <channel>
+        <atom:link href="https://www.01net.com/actualites/securite/" rel="self" type="application/rss+xml" />
+        <title>Sécurité - 01net</title>
+        <link>https://www.01net.com/actualites/securite/</link>
+        <description>Sécurité, hacking, piratage et cybercriminalitésuivez toute l'actualité pour bien se protéger sur internet avec 01net.</description>
+        <language>fr</language>
+        <copyright>Copyright 01NET</copyright>
+        <pubDate>Thu, 25 Mar 2021 11:30:03 +0100</pubDate>
+        <lastBuildDate>Thu, 25 Mar 2021 11:30:03 +0100</lastBuildDate>
+        <ttl>15</ttl>
+        <image>
+            <title>Sécurité - 01net</title>
+            <url>https://static.bfmtv.com/ressources/img/logo/logo-01net-gris.png</url>
+            <link>https://www.01net.com/actualites/securite/</link>
+        </image>    <item>
+    <title><![CDATA[Comment des centaines d'applications iOS et Android rusent pour vous extorquer de l'argent]]></title>
+            <description><![CDATA[Les applications frauduleuses qui exploitent le principe de l'abonnement ont permis à leurs développeurs d'empocher plus de 400 millions de dollars.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/3ad/60317ebff9ae291f1829e4f0e4909.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/des-chercheurs-ont-decouvert-des-centaines-d-applications-sur-ios-et-android-qui-extorquent-de-l-argent-2039311.html
+        </link>
+    <pubDate>Thu, 25 Mar 2021 08:14:22 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/des-chercheurs-ont-decouvert-des-centaines-d-applications-sur-ios-et-android-qui-extorquent-de-l-argent-2039311.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/3ad/60317ebff9ae291f1829e4f0e4909.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Windows Defender va automatiquement patcher les serveurs Exchange]]></title>
+            <description><![CDATA[L’antivirus de Microsoft installe un correctif pour casser la chaîne d’attaque qui menace actuellement les serveurs de messagerie dans le monde entier.       <br/><br/> <img src="https://img.bfmtv.com/c/150/100/787/ff1fc068ee25f9570d588212ee4b7.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/windows-defender-va-automatiquement-patcher-les-serveurs-exchange-2038998.html
+        </link>
+    <pubDate>Mon, 22 Mar 2021 04:42:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/windows-defender-va-automatiquement-patcher-les-serveurs-exchange-2038998.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/787/ff1fc068ee25f9570d588212ee4b7.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Acer : le géant du PC est victime d’un ransomware qui réclame 50 millions de dollars]]></title>
+            <description><![CDATA[Le constructeur informatique s’est visiblement fait pirater par le groupe REvil qui lui demande un montant de rançon astronomique, le plus élevé vu à ce jour.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/0c2f/c09b7a926992e06dc5ccef106a08.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/acer-le-geant-du-pc-est-victime-d-un-ransomware-qui-reclame-50-millions-de-dollars-2038979.html
+        </link>
+    <pubDate>Mon, 22 Mar 2021 01:11:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/acer-le-geant-du-pc-est-victime-d-un-ransomware-qui-reclame-50-millions-de-dollars-2038979.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/0c2f/c09b7a926992e06dc5ccef106a08.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Les Etats-Unis préparent une série de cyberattaques contre la Russie]]></title>
+            <description><![CDATA[L'administration de Joe Biden est en train de planifier des cyberattaques en réaction au piratage de SolarWinds.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/c49/ad66732d1d25091bf62810d4d7bc5.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/les-etats-unis-preparent-une-serie-de-cyberattaques-contre-la-russie-2038946.html
+        </link>
+    <pubDate>Mon, 22 Mar 2021 08:07:46 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/les-etats-unis-preparent-une-serie-de-cyberattaques-contre-la-russie-2038946.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/c49/ad66732d1d25091bf62810d4d7bc5.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Avira Prime : Testez la suite de sécurité gratuitement pendant 1 mois]]></title>
+            <description><![CDATA[Grâce à un partenariat avec 01.net, vous pouvez actuellement tester la suite de sécurité Ava Prime et ses avantages gratuitement pendant 1 mois.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/f3c/1d079083f18f1ea9c8f75589eb8af.jpeg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/avira-prime-testez-la-suite-de-securite-gratuitement-pendant-1-mois-2038238.html
+        </link>
+    <pubDate>Sat, 20 Mar 2021 10:00:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/avira-prime-testez-la-suite-de-securite-gratuitement-pendant-1-mois-2038238.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/f3c/1d079083f18f1ea9c8f75589eb8af.jpeg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Bon plan CyberGhost VPN: 83% de remise sur l’abonnement]]></title>
+            <description><![CDATA[Pour quelques heures encore, vous pouvez bénéficier de CyberGhost VPN avec une remise de 83% : le VPN vous revient alors à 2 euros par mois pendant plus de trois ans.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/5a4/68ec60bee0bd0ff15b57dc1b13209.png"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/bon-plan-cyberghost-vpn-83percent-de-remise-sur-l-abonnement-2038208.html
+        </link>
+    <pubDate>Sat, 20 Mar 2021 09:45:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/bon-plan-cyberghost-vpn-83percent-de-remise-sur-l-abonnement-2038208.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/5a4/68ec60bee0bd0ff15b57dc1b13209.png"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Comment cette société peut espionner 15 milliards de voitures pour l'armée américaine]]></title>
+            <description><![CDATA[Une entreprise américaine spécialisée dans la surveillance serait en mesure de localiser précisément (presque) tous les véhicules sur terre. L’astuce ? Les données télémétriques que les voitures envoient à leurs constructeurs.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/397/6c4f3fb7a7833d754ebeba067fe9b.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/comment-cette-societe-peut-espionner-15-milliards-de-voitures-pour-l-armee-americaine-2038732.html
+        </link>
+    <pubDate>Fri, 19 Mar 2021 04:47:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/comment-cette-societe-peut-espionner-15-milliards-de-voitures-pour-l-armee-americaine-2038732.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/397/6c4f3fb7a7833d754ebeba067fe9b.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Les développeurs iOS ciblés par une porte dérobée planquée dans une librairie]]></title>
+            <description><![CDATA[Un script caché est exécuté dans l’environnement de développement Xcode et provoque l’installation de « EggShell », une backdoor disponible en open source.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/f6c/1249935b2b888902b5b44fb352edb.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/les-developpeurs-ios-cibles-par-une-porte-derobee-planquee-dans-une-librairie-2038737.html
+        </link>
+    <pubDate>Fri, 19 Mar 2021 03:37:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/les-developpeurs-ios-cibles-par-une-porte-derobee-planquee-dans-une-librairie-2038737.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/f6c/1249935b2b888902b5b44fb352edb.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Des pirates ont utilisé 11 failles zero-day pour pirater des PC et des smartphones]]></title>
+            <description><![CDATA[Un groupe de hackers non identifiés ont piégé des douzaines de sites web pour pirater des utilisateurs sous Windows, Android ou iOS.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/8eb/1b3379e109865e97827a48124bc6c.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/des-pirates-ont-utilise-11failles-zero-day-pour-pirater-des-pc-et-des-smartphones-2038708.html
+        </link>
+    <pubDate>Fri, 19 Mar 2021 10:41:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/des-pirates-ont-utilise-11failles-zero-day-pour-pirater-des-pc-et-des-smartphones-2038708.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/8eb/1b3379e109865e97827a48124bc6c.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Des hackers chinois espionnent les opérateurs 5G aux Etats-Unis et en Europe]]></title>
+            <description><![CDATA[Le groupe présumé chinois Mustang Panda s’intéresse visiblement aux technologies déployées par les opérateurs dans le monde entier. Les victimes sont piégées par l’intermédiaire d’un faux site de recrutement Huawei.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/bcd/974ed56f3e0656168b93157f8834a.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/des-hackers-chinois-espionnent-les-operateurs5g-aux-etats-unis-et-en-europe-2038416.html
+        </link>
+    <pubDate>Wed, 17 Mar 2021 10:45:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/des-hackers-chinois-espionnent-les-operateurs5g-aux-etats-unis-et-en-europe-2038416.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/bcd/974ed56f3e0656168b93157f8834a.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Signal : le gouvernement chinois bloque l’appli de communications chiffrées]]></title>
+            <description><![CDATA[Désormais retirée de tous les magasins d’applications mobiles opérant en Chine, Signal est inutilisable sans utiliser un VPN dans l’Empire du Milieu.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/e74/f66f139f80cc5ee66ec2a469e90d1.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/signal-le-gouvernement-chinois-bloque-l-appli-de-communications-chiffrees-2038312.html
+        </link>
+    <pubDate>Tue, 16 Mar 2021 04:19:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/signal-le-gouvernement-chinois-bloque-l-appli-de-communications-chiffrees-2038312.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/e74/f66f139f80cc5ee66ec2a469e90d1.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Piratage Exchange : un partenaire de Microsoft pourrait être impliqué]]></title>
+            <description><![CDATA[Un code de démonstration partagé avec des partenaires privilégiés s’est retrouvé dans certaines attaques avant la publication du patch.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/c37/e46612f6da9f8024243afa20300ff.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/piratage-exchange-un-partenaire-de-microsoft-pourrait-etre-implique-2038316.html
+        </link>
+    <pubDate>Tue, 16 Mar 2021 03:45:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/piratage-exchange-un-partenaire-de-microsoft-pourrait-etre-implique-2038316.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/c37/e46612f6da9f8024243afa20300ff.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Seize dollars suffisaient pour intercepter les SMS de n’importe qui]]></title>
+            <description><![CDATA[Une entreprise américaine spécialisée dans les services d’envoi de SMS n’effectuait aucune vérification dans ses demandes reçues. On pouvait donc détourner son offre pour intercepter les messages de quelqu’un d’autre.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/e63/9c80cb156b1beebb7f2a1e5f43a6b.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/seize-dollars-suffisaient-pour-intercepter-les-sms-de-n-importe-qui-2038292.html
+        </link>
+    <pubDate>Tue, 16 Mar 2021 10:56:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/seize-dollars-suffisaient-pour-intercepter-les-sms-de-n-importe-qui-2038292.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/e63/9c80cb156b1beebb7f2a1e5f43a6b.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Google dévoile une attaque Spectre qui touche tous les navigateurs Chromium, Chrome y compris]]></title>
+            <description><![CDATA[Les chercheurs en sécurité du géant du Web ont créé un nouveau vecteur d’attaque qui montre que le risque de Spectre est réel. L’éditeur invite les développeurs à se familiariser avec les mécanismes de protection.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/86e/74e93b82a099c279fd4c2a9685d59.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/google-devoile-une-attaque-spectre-qui-touche-tous-les-navigateurs-chromium-chrome-y-compris-2038187.html
+        </link>
+    <pubDate>Mon, 15 Mar 2021 11:58:46 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/google-devoile-une-attaque-spectre-qui-touche-tous-les-navigateurs-chromium-chrome-y-compris-2038187.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/86e/74e93b82a099c279fd4c2a9685d59.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Google colmate en urgence une faille zero-day dans Chrome]]></title>
+            <description><![CDATA[C’est la troisième fois depuis le début de l’année que l’éditeur corrige une faille activement exploitée par des pirates. Cette fois-ci, le problème se situe au niveau du moteur de rendu Blink.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/5c2/7a6ef62f080410f0530a8134af180.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/google-colmate-en-urgence-une-faille-zero-day-dans-chrome-2038153.html
+        </link>
+    <pubDate>Mon, 15 Mar 2021 09:54:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/google-colmate-en-urgence-une-faille-zero-day-dans-chrome-2038153.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/5c2/7a6ef62f080410f0530a8134af180.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Avira Prime : profitez d’un mois offert avec 01net]]></title>
+            <description><![CDATA[La suite de sécurité Avira Prime est actuellement proposée en essai gratuit d’un mois en partenariat avec 01net. Cela permet de tester ses différents atouts en matière de sécurité en ligne.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/8012b/9745bb199abf327e8829c8821bf.jpeg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/avira-prime-profitez-d-un-mois-offert-avec-01net-2036867.html
+        </link>
+    <pubDate>Sat, 13 Mar 2021 10:00:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/avira-prime-profitez-d-un-mois-offert-avec-01net-2036867.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/8012b/9745bb199abf327e8829c8821bf.jpeg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Les autorités britanniques testent un outil pour surveiller l’activité de tous les citoyens sur le Web]]></title>
+            <description><![CDATA[A l’essai chez deux FAI, cette technologie serait en mesure de collecter les métadonnées de connexion de l’ensemble des internautes. Le fruit d’une loi qui fait couler beaucoup d’encre depuis son adoption à la fin 2016.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/48f/3f59fa4128cee505f1a7c6625528c.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/les-autorites-britanniques-testent-un-outil-pour-surveiller-l-activite-de-tous-les-citoyens-sur-le-web-2037924.html
+        </link>
+    <pubDate>Fri, 12 Mar 2021 05:48:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/les-autorites-britanniques-testent-un-outil-pour-surveiller-l-activite-de-tous-les-citoyens-sur-le-web-2037924.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/48f/3f59fa4128cee505f1a7c6625528c.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Intel Core, AMD Ryzen, Apple M1, Samsung Exynos, comment ces puces trahissent votre navigation ]]></title>
+            <description><![CDATA[Des chercheurs ont montré que cet élément incontournable de la puce permettait de savoir indirectement quel site un internaute a visité. Même si le JavaScript est totalement désactivé.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/65e/c4ac296bc037657361b1c9e2f2705.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/intel-core-amd-ryzen-apple-m1-samsung-exynos-comment-ces-puces-trahissent-votre-navigation-2037928.html
+        </link>
+    <pubDate>Fri, 12 Mar 2021 05:16:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/intel-core-amd-ryzen-apple-m1-samsung-exynos-comment-ces-puces-trahissent-votre-navigation-2037928.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/65e/c4ac296bc037657361b1c9e2f2705.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Piratage Exchange : après le cyberespionnage, le ransomware]]></title>
+            <description><![CDATA[Les premiers rançongiciels exploitant les failles Microsoft Exchange ont été diffusés. Il existe encore plus de 125 000 systèmes vulnérables dans le monde.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/70cd9/2b48f5dba8704996edef72da6a5.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/piratage-exchange-apres-le-cyberespionnage-le-ransomware-2037876.html
+        </link>
+    <pubDate>Fri, 12 Mar 2021 12:34:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/piratage-exchange-apres-le-cyberespionnage-le-ransomware-2037876.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/70cd9/2b48f5dba8704996edef72da6a5.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Ces chercheuses dénoncent des failles de sécurité importantes dans deux sex-toys très populaires]]></title>
+            <description><![CDATA[Cecilia Pastorino et Denise Giusto Bilić, de l'ESET, ont démontré les failles de sécurité des sex-toys connectés We-Vibe Jive et Lovesense Max.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/ca0ef5/089034a7f98e405c62d7271ab2.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/ces-chercheuses-denoncent-des-failles-de-securite-importantes-dans-deux-sex-toys-tres-populaires-2037864.html
+        </link>
+    <pubDate>Fri, 12 Mar 2021 11:35:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/ces-chercheuses-denoncent-des-failles-de-securite-importantes-dans-deux-sex-toys-tres-populaires-2037864.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/ca0ef5/089034a7f98e405c62d7271ab2.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Une dizaine de groupes de pirates se ruent déjà sur les serveurs Exchange vulnérables]]></title>
+            <description><![CDATA[Il s’agit essentiellement de groupes de cyberespionnage liés à la Chine. Certains ont commencé leurs opérations avant la diffusion du patch par Microsoft. Un partage de l’exploit a probablement été organisé.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/12e/1b1ab7285cae0fee0d17189765db2.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/une-dizaine-de-groupes-de-pirates-se-ruent-deja-sur-les-serveurs-exchange-vulnerables-2037737.html
+        </link>
+    <pubDate>Thu, 11 Mar 2021 02:28:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/une-dizaine-de-groupes-de-pirates-se-ruent-deja-sur-les-serveurs-exchange-vulnerables-2037737.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/12e/1b1ab7285cae0fee0d17189765db2.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Vaste coup de filet en Europe, grâce à l’interception d’une messagerie chiffrée]]></title>
+            <description><![CDATA[Les polices belge, néerlandaise et française ont réussi à intercepter « des centaines de millions de messages » de la plateforme Sky ECC, ce qui leur ont permis de démanteler des réseaux de criminalité organisée.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/d058b/d853b0e4a3618a9985a648cd166.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/vaste-coup-de-filet-en-europe-grace-a-l-interception-d-une-messagerie-chiffree-2037721.html
+        </link>
+    <pubDate>Thu, 11 Mar 2021 01:59:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/vaste-coup-de-filet-en-europe-grace-a-l-interception-d-une-messagerie-chiffree-2037721.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/d058b/d853b0e4a3618a9985a648cd166.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Cela n'en finit plus : un ransomware met à genoux l’hôpital d’Oloron-Sainte-Marie]]></title>
+            <description><![CDATA[Des pirates réclament 50 000 dollars à cet établissement des Pyrénées-Atlantiques. Le personnel est contraint de travailler avec papier et crayon. Seul le téléphone fonctionne encore.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/2cd/d9cb10dc161a9b460327d2ee00e7c.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/cela-n-en-finit-plus-un-ransomware-met-a-genoux-l-hopital-d-oloron-sainte-marie-2037607.html
+        </link>
+    <pubDate>Wed, 10 Mar 2021 04:11:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/cela-n-en-finit-plus-un-ransomware-met-a-genoux-l-hopital-d-oloron-sainte-marie-2037607.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/2cd/d9cb10dc161a9b460327d2ee00e7c.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Un bug dans une appli iPhone donnait accès à des milliers d’enregistrements vocaux]]></title>
+            <description><![CDATA[Il suffisait d’intercepter les requêtes HTTP et d’insérer le numéro de téléphone de la victime pour accéder à ses enregistrements stockés sur Amazon S3. D’une simplicité inquiétante.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/c43/9ba980115ffd035938a672a65d513.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/un-bug-dans-une-appli-iphone-donnait-acces-a-des-milliers-d-enregistrements-vocaux-2037584.html
+        </link>
+    <pubDate>Wed, 10 Mar 2021 02:28:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/un-bug-dans-une-appli-iphone-donnait-acces-a-des-milliers-d-enregistrements-vocaux-2037584.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/c43/9ba980115ffd035938a672a65d513.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Ces hackers ont piraté des dizaines de milliers de caméras de surveillance]]></title>
+            <description><![CDATA[Une porte dérobée dédiée à la maintenance et facile à trouver permettait d’accéder à plus de 150 000 caméras de vidéosurveillance du fournisseur Verkada. Des banques, des hôpitaux, mais aussi... Tesla font partie des victimes.   <br/><br/> <img src="https://img.bfmtv.com/c/150/100/b23/b24c394a5dcb442a3bab0b5637585.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/ces-hackers-ont-pirate-des-dizaines-de-milliers-de-cameras-de-surveillance-2037574.html
+        </link>
+    <pubDate>Wed, 10 Mar 2021 11:41:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/ces-hackers-ont-pirate-des-dizaines-de-milliers-de-cameras-de-surveillance-2037574.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/b23/b24c394a5dcb442a3bab0b5637585.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[L’Autorité bancaire européenne a, elle aussi, été victime du piratage des serveurs Exchange]]></title>
+            <description><![CDATA[D’après les chercheurs en sécurité, ces cyberattaques sont désormais réalisées par de multiples groupes de pirates, dont on ne sait pas s’ils sont liés ou non au groupe chinois Hafnium.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/a0db9/075bb7c5ee90ed41b8fc4a9e156.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/l-autorite-bancaire-europeenne-a-elle-aussi-ete-victime-du-piratage-des-serveurs-exchange-2037426.html
+        </link>
+    <pubDate>Tue, 09 Mar 2021 01:47:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/l-autorite-bancaire-europeenne-a-elle-aussi-ete-victime-du-piratage-des-serveurs-exchange-2037426.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/a0db9/075bb7c5ee90ed41b8fc4a9e156.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Intel veut créer une puce révolutionnaire pour traiter les données chiffrées dans le cloud]]></title>
+            <description><![CDATA[Le technologie de chiffrement homomorphe permettra de traiter des données chiffrées dans le cloud sans avoir à les déchiffrer, ce qui augmenterait considérablement leur protection.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/68f/194ed933c26b57769a0935fcd625e.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/intel-veut-creer-une-puce-revolutionnaire-pour-traiter-les-donnees-chiffrees-dans-le-cloud-2037417.html
+        </link>
+    <pubDate>Tue, 09 Mar 2021 09:50:49 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/intel-veut-creer-une-puce-revolutionnaire-pour-traiter-les-donnees-chiffrees-dans-le-cloud-2037417.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/68f/194ed933c26b57769a0935fcd625e.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Apple publie un correctif de sécurité pour iPhone, iPad, Watch, Mac et Safari, à installer d’urgence]]></title>
+            <description><![CDATA[Pour combler une faille qui permettait à un pirate de prendre le contrôle de votre appareil à distance via une page Web, Apple vient de publier un correctif pour iOS et iPadOS (14.4.1), macOS (11.2.3), watchOS (7.3.2), ainsi que pour son navigateur Web, Safari (14.0.3).  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/679/373129c6128f347cf1703e2f509c3.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/apple-publie-un-correctif-de-securite-pour-ses-iphone-ipad-watch-mac-et-safari-a-installer-d-urgence-2037391.html
+        </link>
+    <pubDate>Tue, 09 Mar 2021 07:29:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/apple-publie-un-correctif-de-securite-pour-ses-iphone-ipad-watch-mac-et-safari-a-installer-d-urgence-2037391.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/679/373129c6128f347cf1703e2f509c3.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[L’Agence européenne des médicaments, piratée par les Russes et les Chinois]]></title>
+            <description><![CDATA[Les hackers de Poutine ont mis la main sur des données du vaccin de Pfizer/Biontech. Ce dernier a été la cible, par la suite, d’une campagne de désinformation organisée par les services secrets russes.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/0b9c/174140bd30468786065d3c2911cc.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/l-agence-europeenne-des-medicaments-piratee-par-les-russes-et-les-chinois-2037356.html
+        </link>
+    <pubDate>Mon, 08 Mar 2021 06:31:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/l-agence-europeenne-des-medicaments-piratee-par-les-russes-et-les-chinois-2037356.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/0b9c/174140bd30468786065d3c2911cc.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+    <item>
+    <title><![CDATA[Des « centaines de milliers » de serveurs Exchange piratés par des hackers chinois]]></title>
+            <description><![CDATA[Les pirates mettent les bouchées doubles et infectent des milliers de systèmes par heure. Les entreprises vont être confrontées à un énorme travail de détection et de nettoyage.  <br/><br/> <img src="https://img.bfmtv.com/c/150/100/1bc/31243b71dd3a888c61ef89d81d624.jpg"/>]]></description>
+        <link>
+            https://www.01net.com/actualites/des-centaines-de-milliers-de-serveurs-exchange-pirates-par-des-hackers-chinois-2037296.html
+        </link>
+    <pubDate>Mon, 08 Mar 2021 01:07:00 +0100</pubDate>
+    <guid isPermaLink="false">
+                    https://www.01net.com/actualites/des-centaines-de-milliers-de-serveurs-exchange-pirates-par-des-hackers-chinois-2037296.html
+            </guid>
+                <enclosure url="https://img.bfmtv.com/i/0/0/1bc/31243b71dd3a888c61ef89d81d624.jpg"
+               type="image/jpg"
+               length="0"
+    />
+
+    </item>
+
+    </channel>
+</rss>
