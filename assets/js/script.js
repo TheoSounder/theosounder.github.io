@@ -24,5 +24,5 @@ xhttp.onreadystatechange = function() {
     }
 }
 
-xhttp.open("GET", "./assets/rss1.xml", true)
+xhttp.open("GET", "https://www.01net.com/rss/actualites/securite/", true)
 xhttp.send()
