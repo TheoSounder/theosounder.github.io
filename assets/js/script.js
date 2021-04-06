@@ -1,4 +1,4 @@
-// titre="blog-slider__title" start from 1 to 3
+
 var slide_title = document.getElementsByClassName('blog-slider__title')
 var slide_big_title = document.getElementsByClassName('blog-slider__text')
 var slide_img = document.getElementsByClassName('blog-slider__img')
